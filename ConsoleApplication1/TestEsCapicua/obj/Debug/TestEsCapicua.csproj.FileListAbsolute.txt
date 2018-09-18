@@ -1,0 +1,24 @@
+C:\hlocal\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.dll
+C:\hlocal\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.pdb
+C:\hlocal\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.exe
+C:\hlocal\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.pdb
+C:\hlocal\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.csprojResolveAssemblyReference.cache
+C:\hlocal\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.dll
+C:\hlocal\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsCapicua\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\bin\Debug\TestEsCapicua.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsCapicua\obj\Debug\TestEsCapicua.pdb

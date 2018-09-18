@@ -1,0 +1,24 @@
+C:\hlocal\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.dll
+C:\hlocal\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.pdb
+C:\hlocal\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.exe
+C:\hlocal\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.pdb
+C:\hlocal\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.csprojResolveAssemblyReference.cache
+C:\hlocal\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.dll
+C:\hlocal\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestBinario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\bin\Debug\TestBinario.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestBinario\obj\Debug\TestBinario.pdb

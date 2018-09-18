@@ -1,0 +1,14 @@
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\obj\Debug\TestNumSegundos.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\PROYECTOS MAP\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\obj\Debug\TestNumSegundos.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

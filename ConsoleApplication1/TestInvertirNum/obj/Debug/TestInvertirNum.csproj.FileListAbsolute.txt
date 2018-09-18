@@ -1,0 +1,24 @@
+C:\hlocal\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.dll
+C:\hlocal\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.pdb
+C:\hlocal\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.exe
+C:\hlocal\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.pdb
+C:\hlocal\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.csprojResolveAssemblyReference.cache
+C:\hlocal\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.dll
+C:\hlocal\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestInvertirNum\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\bin\Debug\TestInvertirNum.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestInvertirNum\obj\Debug\TestInvertirNum.pdb

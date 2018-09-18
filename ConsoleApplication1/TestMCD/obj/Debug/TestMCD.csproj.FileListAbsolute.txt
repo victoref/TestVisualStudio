@@ -1,0 +1,24 @@
+C:\hlocal\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.dll
+C:\hlocal\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.pdb
+C:\hlocal\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.exe
+C:\hlocal\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.pdb
+C:\hlocal\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.csprojResolveAssemblyReference.cache
+C:\hlocal\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.dll
+C:\hlocal\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestMCD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\bin\Debug\TestMCD.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestMCD\obj\Debug\TestMCD.pdb

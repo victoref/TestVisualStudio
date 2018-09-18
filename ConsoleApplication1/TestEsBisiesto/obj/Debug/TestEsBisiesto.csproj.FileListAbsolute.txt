@@ -1,0 +1,24 @@
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.dll
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.pdb
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.exe
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.pdb
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.csprojResolveAssemblyReference.cache
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.dll
+C:\hlocal\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.exe
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.csprojResolveAssemblyReference.cache
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.pdb
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\PROYECTOS MAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\TestEsBisiesto.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.exe
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\bin\Debug\ConsoleApplication1.pdb
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.csprojResolveAssemblyReference.cache
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.dll
+D:\1VIDEOJUEGOS\PROYECTOSMAP\ConsoleApplication1\TestEsBisiesto\obj\Debug\TestEsBisiesto.pdb
